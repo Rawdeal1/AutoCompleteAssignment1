@@ -1,5 +1,5 @@
 public interface AutoComplete{
-
+ 
     // Returns the weight of the term, or 0.0 if no such term.
     public double weightOf(String term);
 
